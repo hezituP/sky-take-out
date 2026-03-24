@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tMwyQ54LiHVmqHxHPbm
     access-key-secret: x4nGUENEHDHjdxm1YsUAx1Dz56V5yH
     bucket-name: web-hezitu-sky
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 0
